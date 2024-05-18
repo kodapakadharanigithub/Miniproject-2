@@ -1,0 +1,6 @@
+projectKey=Miniproject_II
+serverUrl=http://localhost:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9000/dashboard?id=Miniproject_II
+ceTaskId=AY6aS2YDoq1Rg8whXyLl
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY6aS2YDoq1Rg8whXyLl
